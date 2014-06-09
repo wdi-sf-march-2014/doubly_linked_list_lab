@@ -16,8 +16,8 @@ __THIRD__: work on these methods:
 
 * getIndex
 * setIndex
-* first
-* last
+* head
+* tail
 * shift
 * unshift
 * insert
